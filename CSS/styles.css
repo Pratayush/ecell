@@ -1,0 +1,423 @@
+.Heading{
+  background-color:#242424;
+  color: white;
+  margin: 0;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+h1{
+  text-align: center;
+  font-size: 2.75rem;
+  margin: 30px auto 30px auto;
+  font-family:'ROBOTO', sans-serif;
+  font-weight: normal;
+}
+.Buttons{
+  text-align: center;
+  padding-top: 50px;
+
+}
+.Subheading{
+  border: 0.5px;
+  border-style: solid;
+  color: black;
+  width:500px;
+  height: auto;
+  align-content: center;
+  padding-bottom: 10px;
+
+  font-weight: bolder;
+  text-align-last: center;
+  margin: 80px auto 20px auto;
+  padding-top: 20px;
+  font-family: 'Segoe UI',sans-serif;
+  font-size: 1.8rem;
+}
+.Thank{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  align-content:center;
+}
+body{
+  margin: 0;
+  background-image:radial-gradient(LIGHTGREY,white);
+
+}
+.Buttons{
+  margin-top: 30px;
+}
+.btn {
+  background: #0e3270;
+  background-image: -webkit-linear-gradient(top, #0e3270, #34dbed);
+  background-image: -moz-linear-gradient(top, #0e3270, #34dbed);
+  background-image: -ms-linear-gradient(top, #0e3270, #34dbed);
+  background-image: -o-linear-gradient(top, #0e3270, #34dbed);
+  background-image: linear-gradient(to bottom, #0e3270, #34dbed);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 30px 20px 30px;
+  text-decoration: none;
+  margin-left: 70px;
+  font-weight:bolder;
+}
+
+.btn:hover {
+  background: #0f0424;
+  background-image: -webkit-linear-gradient(top, #0f0424, #8c8681);
+  background-image: -moz-linear-gradient(top, #0f0424, #8c8681);
+  background-image: -ms-linear-gradient(top, #0f0424, #8c8681);
+  background-image: -o-linear-gradient(top, #0f0424, #8c8681);
+  background-image: linear-gradient(to bottom, #0f0424, #8c8681);
+  text-decoration: none;
+}
+
+
+
+
+img{
+  width: 170px;
+  height: 170px;
+  margin: 70px;
+  padding: 200px;
+  align-items: center;
+
+  border-style: solid;
+  border-width: 2px;
+  justify-content: center;
+  align-content: center;
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 40%);
+  border-color: rgba(15, 0, 0, 0.425);
+  border-radius: 8px;
+  background-color: white;
+}
+img:hover{
+  box-shadow:0 8px 16px 0 rgb(0 0 255 / 40%);
+}
+.Top-row{
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+.toi{
+  margin-left: 120px;
+  padding: 40px;
+
+}
+.D2C{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 480px;
+  left: 520px;
+}
+.LAW{
+    margin-left: 120px;
+    padding: 40px;
+    position: absolute;
+    top: 900px;
+    left: 520px;
+}
+.NLU{
+    margin-left: 120px;
+    padding:40px;
+    position: absolute;
+    top: 1300px;
+    left: 520px;
+}
+.SILICON{
+    margin-left: 120px;
+    padding:40px;
+    position: absolute;
+    top: 1700px;
+    left: 100px;
+
+}
+.DESI{
+    margin-left: 120px;
+    padding: 40px;
+    position: absolute;
+    top: 1700px;
+    left: 520px;
+}
+.KNOWAFEST{
+    margin-left: 120px;
+    padding:40px;
+    position: absolute;
+    top: 1700px;
+    right: 140px;
+}
+.ORANGE{
+    margin-left: 120px;
+    padding:40px;
+    position: absolute;
+    top: 2100px;
+    left: 520px;
+}
+.Legal{
+  margin-top: 370px;
+}
+.Knowledge{
+  margin-top: 340px;
+  margin-left: 10px;
+}
+.Outreach{
+  margin-top: 340px;
+  margin-left: 10px;
+}
+.Publicity{
+  margin-top: 340px;
+  margin-left: 10px;
+}
+.random{
+  padding: 40px;
+
+}
+.dainik{
+  padding: 40px;
+
+}
+.Bottom-row{
+  text-align: center;
+  margin-left: auto;
+}
+.lokmat{
+  padding: 40px;
+  position: absolute;
+  top:840px;
+  right: 780px;
+}
+.hitvada{
+  padding:40px;
+  position: absolute;
+  top: 840px;
+  left: 740px;
+}
+.Bottom-row{
+  display: block;
+}
+.bottom-container{
+  display: block;
+  margin-top: 350px;
+
+  text-align: center;
+  font-family:'Segoe UI', sans-serif;
+  font-size: 1.75rem;
+  font-weight:normal;
+
+}
+.footer{
+  background-color: #242424;
+  padding: 100px;
+  margin-bottom: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: #0072FF;
+  font-weight:normal;
+  line-height: 2;
+
+}
+#bottom-outreach{
+  margin-top: 450px;
+}
+
+.SBI{
+
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 480px;
+  left: 100px;
+}
+.INDIAN{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 480px;
+  right: 140px;
+}
+.COAL{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 480px;
+  left: 520px;
+}
+.HERO{
+  margin-left: 120px;
+padding: 40px;
+  position: absolute;
+  top: 800px;
+  right: 140px;
+}
+.POWERGRID{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 800px;
+  left: 520px;
+}
+.PAN{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 800px;
+  left: 100px;
+}
+.IMERYS{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 1120px;
+  right: 140px;
+}
+.CANARA{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 1120px;
+  left: 520px;
+}
+.MANGANESE{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 1120px;
+  left: 100px;
+}
+.SIDBI{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 1440px;
+  left: 520px;
+}
+.Associate{
+  margin-top: 1320px;
+  margin-left: 10px;
+}
+.IB-HUBS{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 1870px;
+  left: 100px;
+}
+.TORRINS{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 1870px;
+  left: 520px;
+}
+.RAHUL{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 1870px;
+  right: 140px;
+}
+.HITBHAV{
+  padding: 40px;
+  position: absolute;
+  top:2170px;
+  left:780px;
+}
+.DIGITAL{
+  padding: 40px;
+  position: absolute;
+  top: 2170px;
+  left:350px;
+}
+.Hackathon{
+  margin-top: 670px;
+  margin-left: 10px;
+}
+.GOOGLE{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 2590px;
+  left: 520px;
+}
+.Food{
+  margin-top: 380px;
+  margin-left: 10px;
+}
+.CCD{
+  padding: 40px;
+  position: absolute;
+  top: 3020px;
+  left:350px;
+}
+.ITC{
+  padding: 40px;
+  position: absolute;
+  top:3020px;
+  left:780px;
+}
+.Under{
+  margin-top: 380px;
+  margin-left: 10px;
+}
+.MAKE{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 3480px;
+  left: 100px;
+}
+.TIE{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 3480px;
+  left: 520px;
+}
+.CIVN{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 3480px;
+  right: 140px;
+}
+.DI{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 3800px;
+  left: 100px;
+}
+.YUVA{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 3800px;
+  left: 520px;
+}
+.PORTAL{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 3800px;
+  right: 140px;
+}
+.VNIT-AA{
+  margin-left: 120px;
+  padding: 40px;
+  position: absolute;
+  top: 4120px;
+  left: 520px;
+}
+#Index-bc{
+  margin-top: 1080px;
+}
